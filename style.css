@@ -1,0 +1,30 @@
+body {
+  background: #d5e1ef;
+  display: flex;
+  justify-content: center;
+}
+.card {
+  background: #ffffff;
+  width: 320px;
+  padding: 16px;
+  border-radius: 20px;
+}
+.card img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+h1 {
+  font-family: garamond;
+  font-weight: 700;
+  font-size: 22px;
+  text-align: center;
+  line-height: 27.72px;
+}
+p {
+  font-family: garamond;
+  font-weight: 400;
+  font-size: 15px;
+  text-align: center;
+  line-height: 18.9px;
+  letter-spacing: 0.19px;
+}
